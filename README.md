@@ -134,9 +134,9 @@
 <h2 align="center">Contact Me</h2>
 <p align="center">
 	&nbsp&nbsp&nbsp
-	<a href="https://twitter.com/Soloman_Codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://linkedin.com/in/soloman-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://instagram.com/soloman_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+	<a href="https://twitter.com/Soloman_Codes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://linkedin.com/in/soloman-garcia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://instagram.com/soloman_codes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 </p>
 
 <hr>
