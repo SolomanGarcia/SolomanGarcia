@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/SolomanGarcia/SolomanGarcia/main/assets/SolomanGarcia1.png" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Soloman Garcia</h1>
-<h3 align="center">An email developer from Denver, CO</h3>
-<h4 align="center">Hi my name is Soloman Garcia a web developer  </h4>
+<h3 align="center">An HTML email developer from Denver, CO</h3>
+<h4 align="center">Hi my name is Soloman Garcia, An HTML email developer. I'm focused on coding, producing, proofing, testing, and troubleshooting high-quality and optimized HTML emails in line with company goals and objectives  </h4>
 
 <hr>
 
