@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Soloman Garcia</h1>
 <h3 align="center">HTML email developer from Denver, CO</h3>
-<h4 align="center">My name is Soloman Garcia, a HTML email developer. I'm focused on coding, producing, proofing, testing, and troubleshooting high-quality and optimized HTML emails in line with company goals and objectives.</h4>
+<h4 align="center">My name is Soloman Garcia, an HTML email developer. I'm focused on coding, producing, proofing, testing, and troubleshooting high-quality and optimized HTML emails in line with company goals and objectives.</h4>
 
 <hr>
 
